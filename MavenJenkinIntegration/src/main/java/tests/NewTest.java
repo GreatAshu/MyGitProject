@@ -20,7 +20,7 @@ public class NewTest {
 		  System.setProperty("webdriver.chrome.driver", "D:\\WorkSpaceSHM\\Miscellaneous Projects\\2_33_Chrome\\chromedriver.exe");
 		  driver = new ChromeDriver();
 		  
-		  //This will Maximize Browser
+		  //This will Maximize Browser.
 		  driver.manage().window().maximize();
 	  }
 
